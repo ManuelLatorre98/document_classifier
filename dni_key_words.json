@@ -1,0 +1,14 @@
+{
+    "key_words_str": {
+        "high_prior": [],
+        "medium_prior": ["documento", "document", "mercosur"],
+        "low_prior": ["republica", "argentina", "registro", "nacional",
+                      "personas", "ministerio", "interior", "transporte",
+                      "sexo", "nombre", "nacionalidad", "tramite", "ejemplar"]
+    },
+    "key_words_regex": {
+        "high_prior": ["(?i)IDARG"],
+        "medium_prior": ["\\b\\d{1,4}\\.\\d{3}\\.\\d{3}\\b"],
+        "low_prior": []
+    }
+}

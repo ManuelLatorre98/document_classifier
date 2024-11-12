@@ -1,0 +1,21 @@
+# Ignorar entornos virtuales
+venv/
+.venv/
+env/
+
+# Ignorar archivos de caché
+__pycache__/
+*.pyc
+
+# Ignorar configuraciones de entorno
+.env
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar dependencias locales
+.idea/
+.vscode/
+
+# Ignorar archivos de configuración de Jupyter
+.ipynb_checkpoints/

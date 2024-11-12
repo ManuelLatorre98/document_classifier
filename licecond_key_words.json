@@ -1,0 +1,12 @@
+{
+    "key_words_str": {
+        "high_prior": ["licencia","conducir", "automotores"],
+        "medium_prior": ["otorgamiento", "vencimiento", "vial", "clases", "class"],
+        "low_prior": ["particular", "seguridad", "ssue", "nombre", "apellido", "nacional"]
+    },
+    "key_words_regex": {
+        "high_prior": [],
+        "medium_prior": [],
+        "low_prior": []
+    }
+}
